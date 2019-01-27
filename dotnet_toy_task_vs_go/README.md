@@ -25,7 +25,7 @@ Compare the CPU and memory usage of a barebones C# coroutine (e.g. async method 
 
 * Ubuntu 18.04, Pentium, 8GB RAM, dotnet core 2.2
 
-* [C#, 1 million, default threads]results/csharp_1m.txt
+* [C#, 1 million, default threads](results/csharp_1m.txt)
 
 
 ## Summary
