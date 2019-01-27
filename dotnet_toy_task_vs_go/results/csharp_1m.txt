@@ -1,0 +1,58 @@
+MinThreads: 2, 2
+MaxThreads: 32767, 1000
+elapsed=00:00:01.6574976 totalHits=314351
+ - VmSize:	 3295960 kB
+ - VmRSS:	  434528 kB
+elapsed=00:00:01.3746928 totalHits=1356775
+ - VmSize:	 3579424 kB
+ - VmRSS:	  638736 kB
+elapsed=00:00:01.5753399 totalHits=2376528
+ - VmSize:	 3841576 kB
+ - VmRSS:	  839816 kB
+elapsed=00:00:01.6209318 totalHits=3354039
+ - VmSize:	 3841576 kB
+ - VmRSS:	  715332 kB
+elapsed=00:00:01.6261618 totalHits=4337293
+ - VmSize:	 3841576 kB
+ - VmRSS:	  778616 kB
+elapsed=00:00:01.5871909 totalHits=5342532
+ - VmSize:	 3841576 kB
+ - VmRSS:	  973220 kB
+elapsed=00:00:01.7335400 totalHits=6316888
+ - VmSize:	 3841576 kB
+ - VmRSS:	  698424 kB
+elapsed=00:00:01.9067033 totalHits=7328462
+ - VmSize:	 3841576 kB
+ - VmRSS:	  765056 kB
+elapsed=00:00:01.8462688 totalHits=8334924
+ - VmSize:	 3841576 kB
+ - VmRSS:	  802264 kB
+elapsed=00:00:01.8947793 totalHits=9335271
+ - VmSize:	 3841576 kB
+ - VmRSS:	  804164 kB
+elapsed=00:00:01.9231984 totalHits=10332091
+ - VmSize:	 3841576 kB
+ - VmRSS:	 1000920 kB
+	Command being timed: "dotnet run -c Release -- 1000000 1 10000000"
+	User time (seconds): 25.43
+	System time (seconds): 1.15
+	Percent of CPU this job got: 132%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:20.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1067956
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 917865
+	Voluntary context switches: 12563
+	Involuntary context switches: 8427
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 64
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
