@@ -55,7 +55,7 @@ namespace dotnet_massive_async
         {
             var lines = File.ReadAllText("/proc/self/status").Split('\n');
             foreach (var line in lines) {
-                if (line.StartsWith("VmSize:") || line.StartsWith("VmRSS")) {
+                if (line.StartsWith("VmSize:") || line.StartsWith("VmRSS:")) {
                     Console.WriteLine(" - " + line);
                 }
             }
